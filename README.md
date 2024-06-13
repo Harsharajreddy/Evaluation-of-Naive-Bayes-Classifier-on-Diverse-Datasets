@@ -47,13 +47,13 @@ The project evaluates the Naive Bayes classifier using cross-validation and visu
 ### Example Results
 
 #### Hayes-Roth Dataset
-- Mean Accuracy: 79.82%
+- Mean Accuracy: 72.82%
 
 #### Car Dataset
-- Mean Accuracy: 87.56%
+- Mean Accuracy: 80.56%
 
 #### Breast Cancer Dataset
-- Mean Accuracy: 73.16%
+- Mean Accuracy: 72.16%
 
 ---
 
